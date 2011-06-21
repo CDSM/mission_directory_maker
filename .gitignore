@@ -1,0 +1,7 @@
+.komodotools
+*.komodoproject
+*.pyc
+*.html
+*.xml
+test.py
+missionary_photos/*
